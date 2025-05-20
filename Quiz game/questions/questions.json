@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "answer": 0
+  },
+  {
+    "question": "Which language is used for system programming?",
+    "options": ["Python", "JavaScript", "C++", "HTML"],
+    "answer": 2
+  }
+]
